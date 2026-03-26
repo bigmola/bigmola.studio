@@ -1,8 +1,11 @@
 baseURL = 'https://bigmola.studio/'
 locale = 'en-gb'
 title = 'Big Mola Studio'
-theme = 'ananke'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/nunocoracao/blowfish/v2'
