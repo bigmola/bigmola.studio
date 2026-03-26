@@ -5,6 +5,7 @@ resources/_gen/
 # Hugo module cache
 /tmp/
 .hugo_build.lock
+_vendor/
 
 # OS
 .DS_Store
