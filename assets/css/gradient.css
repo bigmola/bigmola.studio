@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(
+    to bottom,
+    #0d2a4a 0%,
+    #0a1e38 40%,
+    #060f1f 100%
+  );
+  background-attachment: fixed;
+}
