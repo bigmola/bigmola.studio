@@ -10,6 +10,11 @@ title = 'Big Mola Studio'
   [[module.imports]]
     path = 'github.com/nunocoracao/blowfish/v2'
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  member = "team"
+
 [params]
   homepage.layout = "background"
   homepage.homepageImage = "1280px-Mola_mola.jpg"
