@@ -11,5 +11,5 @@ title = 'Big Mola Studio'
     path = 'github.com/nunocoracao/blowfish/v2'
 
 [params]
-  colorScheme = "big-mola"
-  defaultAppearance = "dark"
+  homepage.layout = "background"
+  homepage.homepageImage = "1280px-Mola_mola.jpg"
